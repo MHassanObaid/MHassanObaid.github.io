@@ -1,0 +1,84 @@
+<!DOCTYPE>
+<html>
+  <head>
+    </head>
+  <body>
+            <p>asdasdas</p>
+    <img src="https://pixabay.com/photos/boy-kid-child-fence-sad-unhappy-529067/" height="auto" width="auto">
+    <br>
+<a href="https://www.google.com">google</a>
+<br>
+<pre class = "uiui popo">We are practicising class worrk inCSS</pre>
+<p id="aqwa">asdasdasd</p>
+<!--Combinator Slector     -->
+<!--  Descendent Selectr   -->
+<ul>
+  <li>
+    <div>Item 1</div>
+    <ul>
+      <li>Subitem A</li>
+      <li>Subitem B</li>
+    </ul>
+  </li>
+  <li>
+    <div>Item 2</div>
+    <ul>
+      <li>Subitem A</li>
+      <li>Subitem B</li>
+    </ul>
+  </li>
+</ul>
+    <!--  Child Combinaotr -->
+<div>
+  <span>
+    Span #1, in the div.
+    <span>Span #2, in the span that's in the div.</span>
+  </span>
+</div>
+<span>Span #3, not in the div at all.</span>
+<!--   General Sibling Combinator  -->
+<p>adasdasdaafgfg</p>
+<span>uiasduiasda</span>
+    <h4>eeqweq</h4>
+<p>wqeqweqweqweqweqweqw</p>
+    <pre>aqweqweqweq</pre>
+    <span>qwqweqweqwe</span>
+
+<!-- Adjacent Sibling Combinator   -->
+<ul>
+  <li>One</li>
+  <li>Two!</li>
+  <li>Three</li>
+</ul>
+
+<!-- Coloumn Combinator  -->
+<table border="1">
+  <colgroup>
+    <col span="2" />
+    <col class="selected" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>B</td>
+      <td>C</td>
+    </tr>
+
+    <tr>
+      <td colspan="2">D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td colspan="2">G</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Pseudoclasses-->
+<a href="https://www.google.com">visirtgoogle</a>
+    
+    <!--  Pseudoelement   -->
+   <p class="jkk" style="font-size:12x">This is flasdasdjasndjasdjasdasdasd<br>asdkasjdkasjdasd<br>askdlaskdlaskdasdas<br>asdkalskdlaksdlasdkasld<br></p>
+    </body>
+  </html>
